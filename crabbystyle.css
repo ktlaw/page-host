@@ -1,0 +1,170 @@
+/*hello! This is my first coding project ever. 
+The images are not mine, I borrowed them from the webs for learning 
+purposes only with no intention to distribute.*/
+
+
+* {
+	background-color: #dedede;
+   
+}
+
+img:hover{ 
+    -webkit-transform: scale(1.25); */
+    -o-transform: scale(1.25);
+    -ms-transform: scale(1.25);
+    /* transform: scale(1.25); */ 
+  
+}
+
+
+span:hover, li:hover, a:hover{
+
+    color: #0c98c5;
+}
+
+a{
+    text-decoration: none;
+    color: #415d7b;
+}
+
+h1{
+	text-align: center;
+    font-family: Helvetica, serif;
+    color: #415d7b;
+    font-size: 2em;
+}
+
+
+
+p{
+	text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: #5f4717;
+    font-size: larger;
+    padding-bottom: 15px;
+}
+
+.intro{
+    box-shadow: 15px 25px 85px 4px #4f4c54;
+    border: solid 3px #d0d0b9;
+    width: 400px;
+    border-radius: 110px;
+    display: block;
+    margin: auto;
+    -webkit-transition: -webkit-transform 2s; 
+    transition: transform 2s;
+}
+
+h2{
+	text-align: center;
+    font-family: Helvetica, serif;
+    color: #415d7b;
+    font-size: 30px;
+    margin-top: 2em;
+}
+
+.ingredients{
+
+	box-shadow: 15px 25px 85px 4px #4f4c54;
+    border: solid 3px #d0d0b9;
+    height:400px;
+    width: 200px;
+    border-radius: 25px;
+    display: block;
+    margin: auto;
+    -webkit-transition: -webkit-transform 2s; 
+    transition: transform 2s;
+
+}
+.components{
+	margin: auto;
+    width: 50%;
+    padding-left: 250px;
+    padding-bottom: 30px;
+    line-height: 2em;
+}
+
+ul{
+	font-family: Helvetica, sans-serif;
+    color: #5f4717;
+    font-size: larger;
+}
+
+h3{
+    text-align: center;
+    font-family: Helvetica, serif;
+    color: #415d7b;
+    font-size: 30px;
+    margin-top: 2em;
+}
+
+.instructions{
+    margin: auto;
+    width: 50%;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    line-height: 2em;
+
+}
+
+ol{
+    font-family: Helvetica, sans-serif;
+    color: #5f4717;
+    font-size: larger;
+}
+
+.crackers{
+    box-shadow: 15px 25px 85px 4px #4f4c54;
+    border: solid 3px #d0d0b9;
+    width: 300px;
+    border-radius: 25px;
+    display: block;
+    margin-top: -2px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    -webkit-transition: -webkit-transform 2s;
+    transition: transform 2s;
+    
+    
+}
+
+.final{
+            
+    box-shadow: 15px 25px 85px 4px #4f4c54;
+    border: solid 3px #d0d0b9;
+    width: 400px;
+    border-radius: 25px;
+    display: block;
+
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    -webkit-transition: -webkit-transform 2s; 
+    transition: transform 2s;
+}
+
+.Anne{
+    box-shadow: 15px 25px 85px 4px #4f4c54;
+    border: solid 3px #d0d0b9;
+    width: 400px;
+    border-radius: 25px;
+    display: block;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    -webkit-transition: -webkit-transform 2s; 
+    transition: transform 2s;
+
+}
+
+.about{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: #5f4717;
+    font-size: larger;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
